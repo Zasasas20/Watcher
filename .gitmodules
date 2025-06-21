@@ -1,0 +1,3 @@
+[submodule "WatcherApp"]
+	path = WatcherApp
+	url = git@github.com:Zasasas20/WatcherApp.git
